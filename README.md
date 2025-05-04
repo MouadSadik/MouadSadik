@@ -25,8 +25,8 @@
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical" alt="Mouad's GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=MouadSadik&show_icons=true&theme=radical" alt="Mouad's GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MouadSadik&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
 ### 🌐 Connect with me
