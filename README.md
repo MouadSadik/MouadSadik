@@ -4,7 +4,7 @@
 <h3 align="center">A passionate Web Developer & Computer Science Student</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=your-username&label=Profile%20views&color=0e75b6&style=flat" alt="your-username" />
+  <img src="https://komarev.com/ghpvc/?username=MouadSadik&label=Profile%20views&color=0e75b6&style=flat" alt="MouadSadik" />
 </p>
 
 - 🌱 I’m currently learning **Full Stack Development with Next.js, Prisma & PostgreSQL**
