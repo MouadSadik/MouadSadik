@@ -6,7 +6,7 @@
   <img src="https://komarev.com/ghpvc/?username=MouadSadik&label=Profile%20views&color=0e75b6&style=flat" alt="MouadSadik" />
 </p>
 
-- 🌱 I’m currently learning **Full Stack Development with Next.js, Prisma & PostgreSQL**
+- 🌱 I’m currently learning **Computer Science specialized in Software Engineering**
 - 👨‍💻 All of my projects are available at [my portfolio](https://mouad-sadik.vercel.app/)
 - 💬 Ask me about **React, Next.js, Tailwind CSS & JavaScript**
 - ⚡ Fun fact **I enjoy solving problems and building clean, user-friendly interfaces**
