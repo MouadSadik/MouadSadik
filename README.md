@@ -7,8 +7,8 @@
 </p>
 
 - 🌱 I’m currently learning **Computer Science specialized in Software Engineering**
-- 👨‍💻 All of my projects are available at [my portfolio](https://mouad-sadik.vercel.app/)
-- 💬 Ask me about **React, Next.js, Tailwind CSS & JavaScript**
+- 👨‍💻 All of my projects are available at [my portfolio](https://mouad-sadik-dev.vercel.app/)
+- 💬 Ask me about **Java, Sbring, Spring Boot React, Next.js & TypeScript**
 - ⚡ Fun fact **I enjoy solving problems and building clean, user-friendly interfaces**
 
 ### 🌐 Connect with me
