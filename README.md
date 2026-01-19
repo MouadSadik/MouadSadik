@@ -19,3 +19,41 @@
     <img align="center" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
 </p>
+
+
+### 🌐 Tech Stack
+
+#### Frontend
+![HTML](https://skillicons.dev/icons?i=html)
+![CSS](https://skillicons.dev/icons?i=css)
+![JavaScript](https://skillicons.dev/icons?i=javascript)
+![TypeScript](https://skillicons.dev/icons?i=typescript)
+![React](https://skillicons.dev/icons?i=react)
+![Next.js](https://skillicons.dev/icons?i=nextjs)
+![TailwindCSS](https://skillicons.dev/icons?i=tailwind)
+![ShadCN UI](https://skillicons.dev/icons?i=vercel)
+![Framer Motion](https://skillicons.dev/icons?i=framer)
+![Figma](https://skillicons.dev/icons?i=figma)
+
+#### Backend 
+![Spring Boot](https://skillicons.dev/icons?i=spring)
+![FastAPI](https://skillicons.dev/icons?i=fastapi)
+![Node.js](https://skillicons.dev/icons?i=nodejs)
+
+#### Database
+![Prisma](https://skillicons.dev/icons?i=prisma)
+![PostgreSQL](https://skillicons.dev/icons?i=postgresql)
+![Supabase](https://skillicons.dev/icons?i=supabase)
+
+
+#### Dev Tools
+![Git](https://skillicons.dev/icons?i=git)
+![GitHub](https://skillicons.dev/icons?i=github)
+![Postman](https://skillicons.dev/icons?i=postman)
+![pnpm](https://skillicons.dev/icons?i=pnpm)
+![Bash](https://skillicons.dev/icons?i=bash)
+
+#### Programming Languages
+![Java](https://skillicons.dev/icons?i=java)
+![C](https://skillicons.dev/icons?i=c)
+![Python](https://skillicons.dev/icons?i=python)
