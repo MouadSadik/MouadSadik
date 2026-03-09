@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Mouad</h1>
-<h3 align="center">A passionate Web Developer & Computer Science Student</h3>
+<h3 align="center">A passionate Fullstack Developer & Computer Science Student</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=MouadSadik&label=Profile%20views&color=0e75b6&style=flat" alt="MouadSadik" />
@@ -23,37 +23,17 @@
 
 ### 🌐 Tech Stack
 
-#### Frontend
 ![HTML](https://skillicons.dev/icons?i=html)
 ![CSS](https://skillicons.dev/icons?i=css)
 ![JavaScript](https://skillicons.dev/icons?i=javascript)
 ![TypeScript](https://skillicons.dev/icons?i=typescript)
+![Node.js](https://skillicons.dev/icons?i=nodejs)
 ![React](https://skillicons.dev/icons?i=react)
 ![Next.js](https://skillicons.dev/icons?i=nextjs)
 ![TailwindCSS](https://skillicons.dev/icons?i=tailwind)
-![ShadCN UI](https://skillicons.dev/icons?i=vercel)
-![Framer Motion](https://skillicons.dev/icons?i=framer)
-![Figma](https://skillicons.dev/icons?i=figma)
-
-#### Backend 
-![Spring Boot](https://skillicons.dev/icons?i=spring)
-![FastAPI](https://skillicons.dev/icons?i=fastapi)
-![Node.js](https://skillicons.dev/icons?i=nodejs)
-
-#### Database
-![Prisma](https://skillicons.dev/icons?i=prisma)
-![PostgreSQL](https://skillicons.dev/icons?i=postgresql)
-![Supabase](https://skillicons.dev/icons?i=supabase)
-
-
-#### Dev Tools
-![Git](https://skillicons.dev/icons?i=git)
-![GitHub](https://skillicons.dev/icons?i=github)
-![Postman](https://skillicons.dev/icons?i=postman)
-![pnpm](https://skillicons.dev/icons?i=pnpm)
-![Bash](https://skillicons.dev/icons?i=bash)
-
-#### Programming Languages
 ![Java](https://skillicons.dev/icons?i=java)
-![C](https://skillicons.dev/icons?i=c)
+![Spring Boot](https://skillicons.dev/icons?i=spring)
 ![Python](https://skillicons.dev/icons?i=python)
+![FastAPI](https://skillicons.dev/icons?i=fastapi)
+![PostgreSQL](https://skillicons.dev/icons?i=postgresql)
+![Figma](https://skillicons.dev/icons?i=figma)
